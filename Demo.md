@@ -3,7 +3,7 @@
 This document provides a detailed walkthrough of the system's operational flow, showcasing how it integrates spectroscopy, edge AI, and automated remediation.
 
 ## 📺 System Demonstration
-**[Click Here to Watch the Demo Video](PASTE_YOUR_DRIVE_LINK_HERE)**
+**https://drive.google.com/file/d/14Hvjm5do-Xqf1FxqmtmQ_wXESJC578Ew/view?usp=sharing**
 
 > **Note:** The video demonstrates the transition from detection to the autonomous 40-second cleaning cycle.
 
